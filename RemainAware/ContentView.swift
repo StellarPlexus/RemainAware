@@ -21,6 +21,7 @@ struct ContentView: View {
                 .foregroundStyle(.red)
         }
         // New Stuff Here
+        
         .padding()
         
     }
